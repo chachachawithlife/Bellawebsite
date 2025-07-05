@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     background-color: rgb(45, 86, 132);
     background: linear-gradient(to right, rgb(64, 173, 224) ,rgb(53, 53, 236) );
-    color: FEFAE0;
+    color: #FEFAE0;
 }
 
 header {
